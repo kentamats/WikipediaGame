@@ -10,7 +10,7 @@ The primary goal is to enhance the Wikipedia Game by introducing a more sophisti
 
 To address these issues, I propose integrating semantic analysis and graph databases into the game's pathfinding mechanism. By employing word embeddings, such as Word2Vec or BERT, we can calculate the semantic similarities between articles. This calculation allows for a more directed and relevant pathfinding strategy that focus on articles that are not just linked but contextually related.
 
-Furthermore, using a graph database like Neo4j or ArangoDB will enable efficient storage and querying of the complex web of Wikipedia articles and their connections. This combination of semantic understanding and advanced data storage will drastically improve the game's performance, making the pathfinding process both faster and more relevant.
+Furthermore, using a graph database like Neo4j or ArangoDB will enable efficient storage and querying of the complex web of Wikipedia articles and their connections. This combination of semantic understanding and advanced data storage will drastically improve the game's performance making the pathfinding process both faster and more relevant.
 
 ## Pseudocode
 

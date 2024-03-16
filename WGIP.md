@@ -1,4 +1,4 @@
-##### Kentaro Matsuo
+#### Author: Kentaro Matsuo
 
 ## Overview
 
